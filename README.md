@@ -44,7 +44,6 @@ Deaths per million reveal uneven global impact across continents.
 
 Recovery vs Active cases highlights differences in outbreak management.
 
-📁 Dataset
-
-Worldometer COVID-19 summary dataset (cleaned for Tableau).
-Includes: confirmed cases, tests, deaths, recovered, active cases, positivity rate, demographic fields, and continent grouping
+👤 Created By
+Chandru M Power BI | Data Analyst
+LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQax6uHDrTiSabrrZmaOOdw%3D%3D
