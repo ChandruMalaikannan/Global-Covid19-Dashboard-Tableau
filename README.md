@@ -46,4 +46,5 @@ Recovery vs Active cases highlights differences in outbreak management.
 
 👤 Created By
 Chandru M | Data Analyst
-LinkedIn: https://github.com/ChandruMalaikannan
+LinkedIn: www.linkedin.com/in/chandru-malaikannan
+
